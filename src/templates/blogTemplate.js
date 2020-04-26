@@ -2,8 +2,6 @@ import React from 'react'
 import { graphql } from 'gatsby'
 
 export default ({data}) => {
-    console.log("asdfasdf")
-    console.log(data)
     const { markdownRemark } = data // data.markdownRemark holds your post data
     const { frontmatter, html } = markdownRemark
     return (
