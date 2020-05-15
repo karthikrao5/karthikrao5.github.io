@@ -1,5 +1,5 @@
 ---
-path: "/blog/ml/speedChallenge/1"
+path: "/blog/ml/cudaInstall/1"
 date: "2020-04-26"
 title: "Speed Challenge from Comma AI"
 ---
