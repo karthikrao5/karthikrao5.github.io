@@ -1,5 +1,5 @@
 ---
-path: "/ml/cudaInstall"
+path: "/kraoBlog/ml/cudaInstall"
 date: "2020-05-14"
 title: "Speed Challenge from Comma AI"
 ---
