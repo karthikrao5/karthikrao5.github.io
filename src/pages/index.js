@@ -8,6 +8,7 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
     <Link to="/blog/ml/speedChallenge/1">Speed Challenge 1</Link>
+    <Link to="/blog/ml/cudaInstall/1">How to install Cuda 10.1 on Ubuntu 20.04</Link>
   </Layout>
 )
 

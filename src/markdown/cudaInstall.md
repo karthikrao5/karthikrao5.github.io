@@ -1,6 +1,6 @@
 ---
-path: "/blog/ml/cudaInstall/1"
-date: "2020-04-26"
+path: "/blog/ml/cudaInstall"
+date: "2020-05-14"
 title: "Speed Challenge from Comma AI"
 ---
 
