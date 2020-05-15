@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{RXBc:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),l=t.n(a),o=t("Wbzz"),c=t("Bl7J"),u=t("vrFN");n.default=function(){return l.a.createElement(c.a,null,l.a.createElement(u.a,{title:"Home"}),l.a.createElement(o.Link,{to:"/ml/speedChallenge/1"},"Speed Challenge 1"),l.a.createElement(o.Link,{to:"/ml/cudaInstall/1"},"How to install Cuda 10.1 on Ubuntu 20.04"))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-3e87c9a210f00aa4a7cd.js.map
