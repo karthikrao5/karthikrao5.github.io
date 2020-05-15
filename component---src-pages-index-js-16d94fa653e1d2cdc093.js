@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{RXBc:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),l=t.n(a),c=t("Wbzz"),o=t("Bl7J"),r=t("vrFN");n.default=function(){return l.a.createElement(o.a,null,l.a.createElement(r.a,{title:"Home"}),l.a.createElement(c.Link,{to:"/blog/ml/speedChallenge/1"},"Speed Challenge 1"))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-16d94fa653e1d2cdc093.js.map
