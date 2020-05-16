@@ -12,7 +12,7 @@ My first thought is to play with the data somehow. I use opencv to open the vide
 
 Next step is to figure out which ML algorithm to use to determine speed. There are so many different network types for different applications.
 
-![Most NN Types](../images/mostNNs.png)
+![Most NN Types](../assets/images/mostNNs.png)
 
 The goal is to figure out which one of these networks will work for this application. Most of the NN I've been practically exposed to are classification networks. They take an image input and output with a one-hot or a percentage of a prediction for a unique classification. I suppose since the data has a single float for the speed of the car at each frame, we could train a CNN to output a flaot per frame. I suppose the accuracy of the CNN would depend on the kernel chosen. What features are we trying to extract from each image?
 

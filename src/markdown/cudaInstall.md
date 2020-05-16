@@ -12,7 +12,7 @@ The process to install cuda is quite confusing and all over the place. This guid
 
 As of now, the latest tf is 2.2.0. Tensorflow version 2+ does not work with Cuda 10.2 so you have to install Cuda 10.1 instead. This guide is what has worked for me using Ubuntu 20.04 but it should also work with 18.04 since I followed guides for the that version. 
 
-![Cuda Versions](../images/cudaLinuxKernelSupport.png)
+![Cuda Versions](../assets/images/cudaLinuxKernelSupport.png)
 
 The default GCC and G++ version for Ubuntu 20.04 should be 9.3 or something similar. CuDNN will not make with this version, you can install multiple versions of GCC and using the `update-alternatives` apt get utility. 
 
